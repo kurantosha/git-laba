@@ -5,6 +5,6 @@ public class Task1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(triArea(8, 7));
+        System.out.println(triArea(7,137));
     }
 }
