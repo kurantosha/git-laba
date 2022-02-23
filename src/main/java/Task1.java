@@ -6,5 +6,6 @@ public class Task1 {
 
     public static void main(String[] args) {
         System.out.println(area(7,137));
+		System.out.println(area(10, 7));
     }
 }
