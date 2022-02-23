@@ -1,6 +1,7 @@
 public class Task1 {
 
     public static int area(int base, int height) {
+		String name = "Olena"
         return (base * height) / 2;
     }
 
