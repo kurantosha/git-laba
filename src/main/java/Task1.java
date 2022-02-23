@@ -5,7 +5,8 @@ public class Task1 {
 		String name = "Volodymr";
 	    int tralala = 3;
 	    int rang = 2;
-        String hello = "Hello, Word";
+//        String hello = "Hello, Word";
+        //        String hello = "Hello, Word";
         return (base * height) / 2;
     }
 
