@@ -7,6 +7,10 @@ public class Task1 {
         return (base * height) / 2;
     }
 
+    public static void nameHello (String name) {
+        System.out.println("Hello, " + name);
+    }
+
     public static void main(String[] args) {
         System.out.println(area(7,137));
 		System.out.println(area(10, 7));
