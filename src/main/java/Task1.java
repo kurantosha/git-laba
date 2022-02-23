@@ -2,7 +2,7 @@ public class Task1 {
 
     public static int area(int base, int height) {
         int age = 5;
-		String name = "Ivan";
+		String name = "Sergiy";
 	    int rang = 2;
         return (base * height) / 2;
     }
